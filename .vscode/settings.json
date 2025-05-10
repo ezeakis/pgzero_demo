@@ -13,5 +13,5 @@
     "workbench.layoutControl.enabled": false,
     "window.title": " ",
     "workbench.editor.showTabs": "multiple",
-    "workbench.activityBar.location": "top"
+    "workbench.activityBar.location": "default"
 }

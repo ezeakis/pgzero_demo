@@ -1,7 +1,7 @@
 # Display Settings
-width      = 1200   #the game window width
-height     = 900    #the game window height
-fullscreen = True  #if the game should start fullscreen or not
+width      = 1000   #the game window width
+height     = 700    #the game window height
+fullscreen = False  #if the game should start fullscreen or not
 
 # Game Settings
 show_controls        = True  #show the player's controls on start
