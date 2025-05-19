@@ -22,7 +22,7 @@ enemy_weapon = Weapon(firerate = 12,
                       speed = 18, 
                       randomness=3 )
 
-spaceship = Spaceship( image = 'spaceships/spaceship_red1', 
+spaceship = Spaceship( image = 'spaceships/spaceship_orange1', 
                        health = 100, 
                        speed = 7, 
                        ability_function = ability, 
